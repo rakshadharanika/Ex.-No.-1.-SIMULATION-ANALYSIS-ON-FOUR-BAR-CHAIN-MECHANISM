@@ -54,12 +54,11 @@
 
 ## Output:
 ![WhatsApp Image 2023-12-13 at 9 42 47 AM (1)](https://github.com/rakshadharanika/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149348380/6b0dc56f-3aee-43cb-a1c4-0f0054cb6ae9)
-![WhatsApp Image 2023-12-13 at 9 42 47 AM](https://github.com/rakshadharanika/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149348380/23413a63-14a9-4fe2-9721-13d833fad09b)
 ![WhatsApp Image 2023-12-13 at 9 42 48 AM](https://github.com/rakshadharanika/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149348380/154e5ec5-96d1-4474-bc03-fc4145f8290f)
+![WhatsApp Image 2023-12-13 at 9 42 47 AM](https://github.com/rakshadharanika/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149348380/23413a63-14a9-4fe2-9721-13d833fad09b)
 
-
-### Name:
-### Register Number: 
+### Name:V RAKSHA DHARANIKA
+### Register Number: 212223230167
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
